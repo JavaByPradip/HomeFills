@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://waffy-demo.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://waffy-demo.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://waffy-demo.myshopify.com/blogs/news/tagged/container.atom"/>
+  <title>Waffy - News</title>
+  <updated>2018-11-13T19:02:00-12:00</updated>
+  <author>
+    <name>Waffy</name>
+  </author>
+  <entry>
+    <id>https://waffy-demo.myshopify.com/blogs/news/glass-container-for-masalas</id>
+    <published>2018-11-13T18:44:00-12:00</published>
+    <updated>2018-11-13T18:45:55-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://waffy-demo.myshopify.com/blogs/news/glass-container-for-masalas"/>
+    <title>Glass container for masalas</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <content type="html">
+      <![CDATA[Lorem ipsum has become the industry standard for design mockups and prototypes. By adding a little bit of Latin to a mockup, you’re able to show clients a more complete version of your design without actually having to invest time and effort drafting copy.]]>
+    </content>
+  </entry>
+</feed>

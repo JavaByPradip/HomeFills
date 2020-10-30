@@ -1,0 +1,18 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+waffy-demo.myshopify.com	TRUE	/1230110804/checkouts/80f8b5fbe5d784aaefd5d384be18f8de	FALSE	1999999999	checkout	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVUwTnpVd1ltUmpaV1F3Wmpjd1pHRmtOMlJtWXpSa05ETm1OMk00WkdGbFpBWTZCa1ZVIiwiZXhwIjoiMjAyMC0xMS0wNlQwNToyMDoyMy44MzRaIiwicHVyIjoiY29va2llLmNoZWNrb3V0In19--fac5e7b5cc67ba6401a7603b02ff7f3c44efe5d7
+waffy-demo.myshopify.com	TRUE	/1230110804	FALSE	1999999999	checkout_token	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVU0TUdZNFlqVm1ZbVUxWkRjNE5HRmhaV1prTldRek9EUmlaVEU0Wmpoa1pRWTZCa1ZVIiwiZXhwIjoiMjAyMS0xMC0xNlQwNToyMDoyMy44MzRaIiwicHVyIjoiY29va2llLmNoZWNrb3V0X3Rva2VuIn19--debf6c9f7b804b1ba40ad031b21580884b5d6ef7
+.myshopify.com	TRUE	/	FALSE	1999999999	__cfduid	d686eadd2c65ef95d1189023cda7679a91602825501
+waffy-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_fs	2020-10-16T05%3A18%3A22Z
+waffy-demo.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+waffy-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	75a569d0-8ecf-4556-8858-ee2f404cda01
+waffy-demo.myshopify.com	TRUE	/	FALSE	1999999999	_s	75a569d0-8ecf-4556-8858-ee2f404cda01
+waffy-demo.myshopify.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+waffy-demo.myshopify.com	TRUE	/	FALSE	1999999999	cart_ts	1602825622
+waffy-demo.myshopify.com	TRUE	/	FALSE	1999999999	cart_ver	gcp-us-east1%3A1
+waffy-demo.myshopify.com	TRUE	/	FALSE	1999999999	cart	a1c64c358a655882618367c749b41855
+waffy-demo.myshopify.com	TRUE	/	FALSE	1999999999	_y	acafa8ca-3866-433c-9520-19203b97bb50
+waffy-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	acafa8ca-3866-433c-9520-19203b97bb50
+waffy-demo.myshopify.com	TRUE	/	FALSE	1999999999	cart_sig	c902c7620a8d7c08fea1cb302515a4cb
+waffy-demo.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

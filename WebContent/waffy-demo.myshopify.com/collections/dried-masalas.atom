@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://waffy-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://waffy-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://waffy-demo.myshopify.com/collections/dried-masalas.atom"/>
+  <title>Waffy</title>
+  <updated>2018-11-08T17:20:18-12:00</updated>
+  <author>
+    <name>Waffy</name>
+  </author>
+  <entry>
+    <id>https://waffy-demo.myshopify.com/products/1564831449172</id>
+    <published>2018-11-08T17:20:18-12:00</published>
+    <updated>2018-11-08T17:20:18-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://waffy-demo.myshopify.com/products/saffron-500-gm"/>
+    <title>Saffron, 500 gm</title>
+    <s:type>Food Color</s:type>
+    <s:vendor>Kesari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/3011/0804/products/3.jpg?v=1542090392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kesari<br>
+        <strong>Type: </strong>Food Color<br>
+        <strong>Price: </strong>
+            489.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>500 gm</s:tag>
+    <s:tag>Food Color</s:tag>
+    <s:tag>Kesari</s:tag>
+    <s:variant>
+      <id>https://waffy-demo.myshopify.com/products/1564831449172</id>
+      <title>500 gm</title>
+      <s:price currency="USD">489.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://waffy-demo.myshopify.com/products/1564831416404</id>
+    <published>2018-11-08T17:20:14-12:00</published>
+    <updated>2018-11-08T17:20:14-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://waffy-demo.myshopify.com/products/black-sesame-seeds"/>
+    <title>Black Sesame Seeds</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>catch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/3011/0804/products/39.jpg?v=1542095626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>catch<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            795.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>1 kg</s:tag>
+    <s:tag>catch</s:tag>
+    <s:tag>Seeds</s:tag>
+    <s:variant>
+      <id>https://waffy-demo.myshopify.com/products/1564831416404</id>
+      <title>1 kg</title>
+      <s:price currency="USD">795.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://waffy-demo.myshopify.com/products/1564831285332</id>
+    <published>2018-11-08T17:20:06-12:00</published>
+    <updated>2018-11-08T17:20:06-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://waffy-demo.myshopify.com/products/black-cardamom"/>
+    <title>Black Cardamom</title>
+    <s:type>Masalas</s:type>
+    <s:vendor>Vedaka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/3011/0804/products/9.jpg?v=1542091205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vedaka<br>
+        <strong>Type: </strong>Masalas<br>
+        <strong>Price: </strong>
+            569.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>250 gm</s:tag>
+    <s:tag>Masalas</s:tag>
+    <s:tag>Vedaka</s:tag>
+    <s:variant>
+      <id>https://waffy-demo.myshopify.com/products/1564831285332</id>
+      <title>250 gm</title>
+      <s:price currency="USD">569.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://waffy-demo.myshopify.com/products/1564831219796</id>
+    <published>2018-11-08T17:20:03-12:00</published>
+    <updated>2018-11-08T17:20:03-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://waffy-demo.myshopify.com/products/dried-ginger"/>
+    <title>Dried Ginger</title>
+    <s:type>Masalas</s:type>
+    <s:vendor>Oskino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/3011/0804/products/43.jpg?v=1542095893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oskino<br>
+        <strong>Type: </strong>Masalas<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>250 gm</s:tag>
+    <s:tag>Masalas</s:tag>
+    <s:tag>Oskino</s:tag>
+    <s:variant>
+      <id>https://waffy-demo.myshopify.com/products/1564831219796</id>
+      <title>250 gm</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://waffy-demo.myshopify.com/products/1564831187028</id>
+    <published>2018-11-08T17:19:59-12:00</published>
+    <updated>2018-11-08T17:19:59-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://waffy-demo.myshopify.com/products/cubeb-pepper"/>
+    <title>Cubeb Pepper</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Eastern</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/3011/0804/products/29.jpg?v=1542094591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eastern<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            298.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Treat them to a delicious treat and send them some Luck 'o the Irish too! Our lovely Gold Rimmed Acetate Wheel is filled with One Dozen of our exquisitely Hand-Dipped and Decorated St. Patrick's Day Fortune Cookies nestled inside on a White Doily. Inside they'll find our traditional messages of Good Fortune. Our wheels are heat sealed for maximum freshness and quality!</p>
+<p>What's inside this Gift Basket? The St. Patrick's Day Fortunes includes: Gold Rimmed Acetate Wheel, 12 hand dipped and decorated St. Patrick's Day Fortune Cookies</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>250 gm</s:tag>
+    <s:tag>Eastern</s:tag>
+    <s:tag>Seeds</s:tag>
+    <s:variant>
+      <id>https://waffy-demo.myshopify.com/products/1564831187028</id>
+      <title>250 gm</title>
+      <s:price currency="USD">298.00</s:price>
+      <s:sku>LFWFCH11</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://waffy-demo.myshopify.com/products/1564830892116</id>
+    <published>2018-11-08T17:19:51-12:00</published>
+    <updated>2018-11-08T17:19:51-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://waffy-demo.myshopify.com/products/white-mustard-1-kg"/>
+    <title>White Mustard, 1 kg</title>
+    <s:type>Dal</s:type>
+    <s:vendor>Tata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/3011/0804/products/13.jpg?v=1542091730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tata<br>
+        <strong>Type: </strong>Dal<br>
+        <strong>Price: </strong>
+            529.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>1 kg</s:tag>
+    <s:tag>Dal</s:tag>
+    <s:tag>Tata</s:tag>
+    <s:variant>
+      <id>https://waffy-demo.myshopify.com/products/1564830892116</id>
+      <title>1 kg</title>
+      <s:price currency="USD">529.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://waffy-demo.myshopify.com/products/1564830466132</id>
+    <published>2018-11-08T17:19:29-12:00</published>
+    <updated>2018-11-08T17:19:29-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://waffy-demo.myshopify.com/products/pimento-250-gm"/>
+    <title>Pimento, 250 gm</title>
+    <s:type>Masalas</s:type>
+    <s:vendor>Eastern</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/3011/0804/products/5.jpg?v=1542090712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eastern<br>
+        <strong>Type: </strong>Masalas<br>
+        <strong>Price: </strong>
+            629.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$600 - $700</s:tag>
+    <s:tag>250 gm</s:tag>
+    <s:tag>Eastern</s:tag>
+    <s:tag>Masalas</s:tag>
+    <s:variant>
+      <id>https://waffy-demo.myshopify.com/products/1564830466132</id>
+      <title>250 gm</title>
+      <s:price currency="USD">629.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://waffy-demo.myshopify.com/products/1564830367828</id>
+    <published>2018-11-08T17:19:24-12:00</published>
+    <updated>2018-11-08T17:19:24-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://waffy-demo.myshopify.com/products/pippali-pepper"/>
+    <title>Pippali Pepper</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Eastern</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/3011/0804/products/25.jpg?v=1542094187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eastern<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            629.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $600</s:tag>
+    <s:tag>250 gm</s:tag>
+    <s:tag>Eastern</s:tag>
+    <s:tag>Ice Cream</s:tag>
+    <s:variant>
+      <id>https://waffy-demo.myshopify.com/products/1564830367828</id>
+      <title>250 gm</title>
+      <s:price currency="USD">629.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://waffy-demo.myshopify.com/products/1564830269524</id>
+    <published>2018-11-08T17:19:19-12:00</published>
+    <updated>2018-11-08T17:19:19-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://waffy-demo.myshopify.com/products/nutmeg-250-gm"/>
+    <title>Nutmeg, 250 gm</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Kesari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/3011/0804/products/31.jpg?v=1542094847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kesari<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>250 gm</s:tag>
+    <s:tag>Kesari</s:tag>
+    <s:tag>Seeds</s:tag>
+    <s:variant>
+      <id>https://waffy-demo.myshopify.com/products/1564830269524</id>
+      <title>250 gm</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://waffy-demo.myshopify.com/products/1564830105684</id>
+    <published>2018-11-08T17:19:11-12:00</published>
+    <updated>2018-11-08T17:19:11-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://waffy-demo.myshopify.com/products/red-chilli-pepper"/>
+    <title>Red Chilli Pepper</title>
+    <s:type>Masalas</s:type>
+    <s:vendor>Vedaka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/3011/0804/products/45.jpg?v=1542096252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vedaka<br>
+        <strong>Type: </strong>Masalas<br>
+        <strong>Price: </strong>
+            649.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>1 kg</s:tag>
+    <s:tag>Masalas</s:tag>
+    <s:tag>Vedaka</s:tag>
+    <s:variant>
+      <id>https://waffy-demo.myshopify.com/products/1564830105684</id>
+      <title>1 kg</title>
+      <s:price currency="USD">649.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://waffy-demo.myshopify.com/products/1564829810772</id>
+    <published>2018-11-08T17:19:02-12:00</published>
+    <updated>2018-11-08T17:19:02-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://waffy-demo.myshopify.com/products/red-paprika"/>
+    <title>Red Paprika</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>catch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/3011/0804/products/27.jpg?v=1542094477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>catch<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            969.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>500 gm</s:tag>
+    <s:tag>catch</s:tag>
+    <s:tag>Seeds</s:tag>
+    <s:variant>
+      <id>https://waffy-demo.myshopify.com/products/1564829810772</id>
+      <title>500 gm</title>
+      <s:price currency="USD">969.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://waffy-demo.myshopify.com/products/1564828827732</id>
+    <published>2018-11-08T17:18:41-12:00</published>
+    <updated>2018-11-08T17:18:41-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://waffy-demo.myshopify.com/products/clove-250-gm"/>
+    <title>Clove, 250 gm</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Oskino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/3011/0804/products/49.jpg?v=1542096543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oskino<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>250 gm</s:tag>
+    <s:tag>Oskino</s:tag>
+    <s:tag>Seeds</s:tag>
+    <s:variant>
+      <id>https://waffy-demo.myshopify.com/products/1564828827732</id>
+      <title>250 gm</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://waffy-demo.myshopify.com/products/1564828500052</id>
+    <published>2018-11-08T17:18:38-12:00</published>
+    <updated>2018-11-08T17:18:38-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://waffy-demo.myshopify.com/products/star-anise-250-gm"/>
+    <title>Star Anise, 250 gm</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Tata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/3011/0804/products/41.jpg?v=1542095773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tata<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>250 gm</s:tag>
+    <s:tag>Seeds</s:tag>
+    <s:tag>Tata</s:tag>
+    <s:variant>
+      <id>https://waffy-demo.myshopify.com/products/1564828500052</id>
+      <title>250 gm</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://waffy-demo.myshopify.com/products/1564828270676</id>
+    <published>2018-11-08T17:18:34-12:00</published>
+    <updated>2018-11-08T17:18:34-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://waffy-demo.myshopify.com/products/coriander-1-kg"/>
+    <title>Coriander, 1 kg</title>
+    <s:type>Masalas</s:type>
+    <s:vendor>Eastern</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/3011/0804/products/7.jpg?v=1542090987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eastern<br>
+        <strong>Type: </strong>Masalas<br>
+        <strong>Price: </strong>
+            197.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Treat them to a delicious treat and send them some Luck 'o the Irish too! Our lovely Gold Rimmed Acetate Wheel is filled with One Dozen of our exquisitely Hand-Dipped and Decorated St. Patrick's Day Fortune Cookies nestled inside on a White Doily. Inside they'll find our traditional messages of Good Fortune. Our wheels are heat sealed for maximum freshness and quality!</p>
+<p>What's inside this Gift Basket? The St. Patrick's Day Fortunes includes: Gold Rimmed Acetate Wheel, 12 hand dipped and decorated St. Patrick's Day Fortune Cookies</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>1 kg</s:tag>
+    <s:tag>Eastern</s:tag>
+    <s:tag>Masalas</s:tag>
+    <s:variant>
+      <id>https://waffy-demo.myshopify.com/products/1564828270676</id>
+      <title>1 kg</title>
+      <s:price currency="USD">197.00</s:price>
+      <s:sku>LFWFCH11</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://waffy-demo.myshopify.com/products/1564827942996</id>
+    <published>2018-11-08T17:18:27-12:00</published>
+    <updated>2018-11-08T17:18:27-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://waffy-demo.myshopify.com/products/dried-rosemary"/>
+    <title>Dried Rosemary</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Oskino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/3011/0804/products/47.jpg?v=1542096397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oskino<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            649.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>3 kg</s:tag>
+    <s:tag>Oskino</s:tag>
+    <s:tag>Seeds</s:tag>
+    <s:variant>
+      <id>https://waffy-demo.myshopify.com/products/1564827942996</id>
+      <title>3 kg</title>
+      <s:price currency="USD">649.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://waffy-demo.myshopify.com/products/1564828139604</id>
+    <published>2018-11-08T03:18:31-12:00</published>
+    <updated>2018-11-08T03:18:31-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://waffy-demo.myshopify.com/products/cardamom"/>
+    <title>Cardamom</title>
+    <s:type>Masalas</s:type>
+    <s:vendor>Kesari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/3011/0804/products/11.jpg?v=1542091597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kesari<br>
+        <strong>Type: </strong>Masalas<br>
+        <strong>Price: </strong>
+            897.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Treat them to a delicious treat and send them some Luck 'o the Irish too! Our lovely Gold Rimmed Acetate Wheel is filled with One Dozen of our exquisitely Hand-Dipped and Decorated St. Patrick's Day Fortune Cookies nestled inside on a White Doily. Inside they'll find our traditional messages of Good Fortune. Our wheels are heat sealed for maximum freshness and quality!</p>
+<p>What's inside this Gift Basket? The St. Patrick's Day Fortunes includes: Gold Rimmed Acetate Wheel, 12 hand dipped and decorated St. Patrick's Day Fortune Cookies</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>500 gm</s:tag>
+    <s:tag>Kesari</s:tag>
+    <s:tag>Masalas</s:tag>
+    <s:variant>
+      <id>https://waffy-demo.myshopify.com/products/1564828139604</id>
+      <title>500 gm</title>
+      <s:price currency="USD">897.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+</feed>
